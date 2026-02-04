@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-[![](https://github-stats-alpha.vercel.app/api?username=DarylLi)
+<div style="width:100%;display:flex;justify-content:center">
+    
+[![](https://github-stats-alpha.vercel.app/api?username=DarylLi)]
+
+</div>
 
 <div style="width:100%;display:flex;justify-content:center">
 
