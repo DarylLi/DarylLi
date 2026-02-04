@@ -4,11 +4,11 @@
 <tbody>
 <tr>
 <td><img width="450" alt="ascii-art 2" src="https://github.com/user-attachments/assets/1f4951be-53f0-4953-b5e2-fad4dc817b16" /></td>
-<td style="width:300px">
+<td width="300">
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarylLi&theme=github_dark)](https://git.io/streak-stats)
 
-<table style="width:460px">
+<table width="460">
 <tbody>
 <tr>
 <td>
