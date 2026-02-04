@@ -1,11 +1,7 @@
 ## Hi there 👋
 
 
-<div style="width:100%;display:flex;justify-content:center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=DarylLi)](https://git.io/streak-stats)
-
-</div>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DarylLi" alt="GitHub Streak" /></a>
 
 <div style="width:100%;display:flex;justify-content:center">
 
