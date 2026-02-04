@@ -12,10 +12,10 @@
 <tbody>
 <tr>
 <td>
-<a target="_blank" rel="noopener noreferrer nofollow" href=""><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DarylLi&theme=transparent"  data-canonical-src="https://github-readme-stats-eight-theta.vercel.app/api?username=tisfeng&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true" style="max-width: 250px;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href=""><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DarylLi&theme=transparent"  data-canonical-src="https://github-readme-stats-eight-theta.vercel.app/api?username=tisfeng&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true" width="250" style="max-width: 250px;"></a>
 </td>
 <td>
-<a target="_blank" rel="noopener noreferrer nofollow" href="" class=""><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DarylLi&theme=transparent" alt="tisfeng top langs" data-canonical-src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tisfeng&amp;layout=compact&amp;langs_count=8&amp;theme=algolia" style="max-width: 250px;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="" class=""><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DarylLi&theme=transparent" alt="tisfeng top langs" data-canonical-src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tisfeng&amp;layout=compact&amp;langs_count=8&amp;theme=algolia" width="250" style="max-width: 250px;"></a>
 </td>
 </tr>
 </tbody>
