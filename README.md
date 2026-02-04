@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DarylLi" alt="GitHub Streak" /></a>
+[![](https://github-stats-alpha.vercel.app/api?username=DarylLi)
 
 <div style="width:100%;display:flex;justify-content:center">
 
