@@ -2,7 +2,10 @@
 
 
 <tbody><tr><td><img width="600" alt="ascii-art 2" src="https://github.com/user-attachments/assets/1f4951be-53f0-4953-b5e2-fad4dc817b16" />
-</td><td>![](https://github-stats-alpha.vercel.app/api?username=DarylLi&cc=000&tc=fff&ic=fff&bc=000)
+</td><td>
+    
+    ![](https://github-stats-alpha.vercel.app/api?username=DarylLi&cc=000&tc=fff&ic=fff&bc=000)
+    
 </td></tr></tbody>
 
 <div style="width:100%;display:flex;justify-content:center">
