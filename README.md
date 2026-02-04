@@ -2,7 +2,7 @@
 
 <tbody><tr><td>
     
-![](https://github-stats-alpha.vercel.app/api?username=DarylLi)
+![](https://github-stats-alpha.vercel.app/api?username=DarylLi&cc=000&tc=fff&ic=fff&bc=000)
 </td></tr></tbody>
 
 <div style="width:100%;display:flex;justify-content:center">
