@@ -1,10 +1,9 @@
 ## Hi there 👋
 
-<div style="width:100%;display:flex;justify-content:center">
+<tbody><tr><td>
     
-[![](https://github-stats-alpha.vercel.app/api?username=DarylLi)]
-
-</div>
+![](https://github-stats-alpha.vercel.app/api?username=DarylLi)
+</td></tr></tbody>
 
 <div style="width:100%;display:flex;justify-content:center">
 
