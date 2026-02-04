@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**DarylLi/DarylLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div style="width:100%;display:flex;justify-content:center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Streak](https://streak-stats.demolab.com?user=DarylLi)](https://git.io/streak-stats)
+
+</div>
+
+<div style="width:100%;display:flex;justify-content:center">
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarylLi&theme=transparent)](https://git.io/streak-stats)
+
+</div>
+
+<div style="display:grid;grid-template-columns: 1fr 1fr;gap:60px">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DarylLi&theme=transparent
+)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DarylLi&theme=transparent)
+
+</div>
