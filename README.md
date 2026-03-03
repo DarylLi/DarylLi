@@ -12,7 +12,8 @@
 <tbody>
 <tr>
 <td>
-<a target="_blank" rel="noopener noreferrer nofollow" href=""><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DarylLi&theme=2077"  data-canonical-src="https://github-readme-stats-eight-theta.vercel.app/api?username=tisfeng&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true" width="250" style="max-width: 250px;"></a>
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=DarylLi&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=ijkplayer,flv.js,DanmakuFlameMaster,ailab,MagicaSakura,boxing,overlord,gengine,discovery,GoogleTranslate,Weibo-Picture-Store"
+    align="right" />
 </td>
 <td>
 <a target="_blank" rel="noopener noreferrer nofollow" href="" class=""><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DarylLi&theme=github_dark" alt="tisfeng top langs" data-canonical-src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tisfeng&amp;layout=compact&amp;langs_count=8&amp;theme=algolia" width="250" style="max-width: 250px;"></a>
